@@ -1,0 +1,23 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "public/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "blog"
+    label: "Recipes"
+    folder: "src/content/blog"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "pubDate", widget: "datetime"}
+      - {label: "Short Description", name: "description", widget: "text"}
+      - {label: "Thumbnail Image URL", name: "thumbnailUrl", widget: "string", required: false, hint: "Paste an image URL here"}
+      - {label: "Hero Image (Upload)", name: "heroImage", widget: "image", required: false, hint: "Or upload a photo directly"}
+      - {label: "YouTube Video Link", name: "youtubeLink", widget: "string", required: false}
+      - {label: "Instagram Reel Link", name: "instagramLink", widget: "string", required: false}
+      - {label: "Facebook Video Link", name: "facebookLink", widget: "string", required: false}
+      - {label: "Recipe Ingredients & Instructions", name: "body", widget: "markdown"}

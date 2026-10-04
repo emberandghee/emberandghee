@@ -138,5 +138,16 @@ const posts = (await getCollection('blog')).sort(
 			</div>
 		</main>
 		<Footer />
+		<script is:inline>
+		  if (window.netlifyIdentity) {
+		    window.netlifyIdentity.on("init", user => {
+		      if (!user) {
+		        window.netlifyIdentity.on("login", () => {
+		          document.location.href = "/admin/";
+		        });
+		      }
+		    });
+		  }
+		</script>
 	</body>
 </html>
