@@ -2,7 +2,7 @@
 title: 'Crispy Aloo Suji Breakfast Cups'
 description: 'A potato and semolina-based snack filled with corn, paneer, and vibrant vegetables. Perfect for a quick morning start!'
 pubDate: 'Oct 04 2026'
-heroImage: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+thumbnailUrl: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
 ---
 
 These **Crispy Aloo Suji Breakfast Cups** are one of the most requested recipes on Ember and Ghee! They are incredibly satisfying, packed with vegetables, and very easy to make.

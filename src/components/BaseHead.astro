@@ -31,7 +31,7 @@ const { title, description, image = FallbackImage } = Astro.props;
 	href={new URL('rss.xml', Astro.site)}
 />
 <meta name="generator" content={Astro.generator} />
-<script src="https://cdn.tailwindcss.com"></script>
+<script is:inline src="https://cdn.tailwindcss.com"></script>
 
 <Font cssVariable="--font-atkinson" preload />
 

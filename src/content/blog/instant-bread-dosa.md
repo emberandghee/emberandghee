@@ -2,7 +2,7 @@
 title: 'Instant Bread Dosa'
 description: 'A quick, no-ferment version of dosa made by blending bread, suji, rice flour, and curd for busy mornings.'
 pubDate: 'Oct 03 2026'
-heroImage: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+thumbnailUrl: 'https://images.unsplash.com/photo-1589301760014-d929f3979dbc?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
 ---
 
 When you want dosa but forgot to soak the batter overnight, this **Instant Bread Dosa** is a lifesaver. It is incredibly crispy and tastes just like the real thing!

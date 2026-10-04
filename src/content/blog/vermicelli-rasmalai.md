@@ -2,7 +2,7 @@
 title: 'Vermicelli Rasmalai'
 description: 'A unique and comforting twist on the traditional Indian dessert using roasted vermicelli and rich saffron milk.'
 pubDate: 'Oct 02 2026'
-heroImage: 'https://images.unsplash.com/photo-1626804475297-41609ea004eb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+thumbnailUrl: 'https://images.unsplash.com/photo-1626804475297-41609ea004eb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
 ---
 
 This **Vermicelli Rasmalai** is one of the most loved desserts on my channel. It gives you the rich, creamy flavor of traditional Rasmalai but with a unique texture from the roasted vermicelli.
